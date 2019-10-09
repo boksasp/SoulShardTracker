@@ -1,0 +1,9 @@
+## Interface: 11302
+## Title: SoulShardTracker
+## Notes: Displays the number of soul shards in your bags.
+## Author: trbox
+## Version: 1.0
+# Website: https://github.com/boksasp/SoulShardTracker
+
+SoulShardTracker.lua
+CounterFrame.xml
