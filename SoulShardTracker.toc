@@ -6,4 +6,3 @@
 # Website: https://github.com/boksasp/SoulShardTracker
 
 SoulShardTracker.lua
-CounterFrame.xml
